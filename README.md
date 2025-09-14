@@ -2,7 +2,13 @@
 
 A zero-cost, open-source project that generates daily maps of Urban Heat Islands (UHIs) in Malaysian cities using NASA MODIS and local weather data.
 
+## Notes
+This repo is meant for prototype experimentation. The ready to use public dashboard will be implemented on a centralized github account.
 
+## Teams
+- @Christopher
+- @Muaz
+- @Wan
 
 ## Purpose
 
