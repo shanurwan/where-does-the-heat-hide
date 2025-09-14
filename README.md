@@ -2,7 +2,7 @@
 
 A zero-cost, open-source project that generates daily maps of Urban Heat Islands (UHIs) in Malaysian cities using NASA MODIS and local weather data.
 
-Google Drive Folder for document exchange : https://drive.google.com/drive/folders/1VOMSlS8NV9IjqQOlPZnPWjGCTbueBfzq?usp=sharing
+
 
 ## Purpose
 
